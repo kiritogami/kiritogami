@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋 Salut, je suis Achraf !  
 
-<!--
-**kiritogami/kiritogami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionné par l’informatique, j’aime explorer différents domaines : **développement, réseaux, cybersécurité, systèmes, IA…**  
+🎯 Mon objectif ? **Apprendre, expérimenter et créer des projets concrets.**  
 
-Here are some ideas to get you started:
+## 🚀 Ce que je fais  
+- 💻 **Développement** : C++, Python, JavaScript (React, Angular, Next.js), Blazor  
+- 🔧 **Infrastructure & Réseaux** : Linux, Docker, Kubernetes, OSPF, Firewalls  
+- 🤖 **IA & Algo** : OCR, compression de données (Huffman), machine learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Toujours en apprentissage  
+Je teste de nouvelles technologies et j’aime relever des défis techniques, que ce soit en développement, en administration système ou en cybersécurité.  
+
+
+
